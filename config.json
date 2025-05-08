@@ -3,9 +3,10 @@
     "default": {
       "commerce-core-endpoint": "https://main--adobecommerceoptimizerdemo--stephengarneradobe.aem.live/graphql",
       "commerce-endpoint": "https://na1-qa.api.commerce.adobe.com/RvBnZqCLtiPCzx6PPSqcGF/graphql",
+      "ac-environment-id": "{RvBnZqCLtiPCzx6PPSqcGF}",
       "headers": {
         "cs": {
-          "ac-channel-id": "",
+          "ac-channel-id": "Shirts",
           "ac-environment-id": "RvBnZqCLtiPCzx6PPSqcGF",
           "ac-price-book-id": "",
           "ac-scope-locale": "en-US"
